@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:123C78,100:06B6D4&height=220&section=header&text=Rinchen%20Spalzang%20Wangesa&fontSize=32&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20Developer&descAlignY=58&descSize=15" alt="Navy and cyan profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1220,123C78,06B6D4&height=220&section=header&text=Rinchen%20Spalzang%20Wangesa&fontSize=32&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20Developer&descAlignY=58&descSize=15" alt="Navy and cyan profile banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+%7C+HTML+%7C+CSS;Learning+by+building+projects;Interested+in+software+development;Open+to+internship+opportunities" alt="Animated introduction" />
 
@@ -52,11 +52,9 @@ These are placeholders, not existing repositories. Replace them with your actual
 💻 Most Used Languages
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinchenSpalzang&layout=donut&langs_count=6&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=E5E7EB" alt="Most used programming languages on RinchenSpalzang's public repositories" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinchenSpalzang&layout=donut&langs_count=6&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=E5E7EB" alt="Most used programming languages" />
 
 </div>
-
-This widget calculates language usage from your public GitHub repositories. It may not reflect languages you use privately or languages not yet represented in your repositories.
 
 🔥 Contribution Activity
 <div align="center">
@@ -80,7 +78,7 @@ This widget calculates language usage from your public GitHub repositories. It m
 
 </div>
 
-Setup required: The snake animation appears after you configure GitHub Actions to generate the SVG and publish it to an output branch. See the Platane/snk setup guide.
+The snake animation requires a GitHub Actions workflow to generate the SVG and publish it to an output branch.
 
 🤝 Let's Connect
 <div align="center">
@@ -95,6 +93,6 @@ Setup required: The snake animation appears after you configure GitHub Actions t
 Thanks for visiting my profile!
 
 Learn consistently · Build thoughtfully · Keep improving
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:123C78,100:0B1220&height=100&section=footer" alt="Navy and cyan footer banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4,123C78,0B1220&height=100&section=footer" alt="Navy and cyan footer banner" width="100%" />
 
 </div>
